@@ -71,7 +71,7 @@ body{
      
 }
 nav{
-    padding: 10px;
+    padding: 10px 0px;
     background-color: var(--cor05);
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.411);
     width: 100%;
