@@ -44,7 +44,8 @@ header > h1 {
 }
 header > p{
     font-family: var(--font01);
-    width: 450px;
+    max-width: 450px;
+    min-width: 150px;
     display: block;
     margin: auto;
 
