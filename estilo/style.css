@@ -68,6 +68,7 @@ header > a:hover {
     background-color: var(--cor05);
 }
 body{
+    margin: 0px;
     background-color: var(--cor01);
      
 }
