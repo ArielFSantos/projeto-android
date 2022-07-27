@@ -18,9 +18,24 @@
 
 }
 
+    
+
+
 *{
+    scroll-behavior: smooth;
     margin: 0px;
     padding: 0px;
+}
+#seta img{
+
+    
+    position: fixed;
+    bottom: 30px;
+    right: 50px;
+
+    width: 60px;
+    height: 60px;
+
 }
 header{
     
