@@ -29,12 +29,10 @@
 #seta img{
 
     
+    width: 8%;
+    bottom: 5vh;
+    right: 5vw;
     position: fixed;
-    bottom: 30px;
-    right: 50px;
-
-    width: 60px;
-    height: 60px;
 
 }
 header{
